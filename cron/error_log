@@ -1,0 +1,6 @@
+[06-Dec-2022 13:09:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: momoMsg in /home/cshoprob/public_html/cron/momo.php on line 19
+[06-Dec-2022 13:09:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/cron/momo.php on line 19
+[06-Dec-2022 13:09:20 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/cshoprob/public_html/cron/momo.php on line 19
+[06-Dec-2022 13:10:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: momoMsg in /home/cshoprob/public_html/cron/momo.php on line 19
+[06-Dec-2022 13:10:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/cron/momo.php on line 19
+[06-Dec-2022 13:10:05 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/cshoprob/public_html/cron/momo.php on line 19

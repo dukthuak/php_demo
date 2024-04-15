@@ -1,0 +1,9 @@
+[07-Aug-2023 10:36:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/azvipcom/my.azvip102.com/config/config.php on line 148
+[07-Aug-2023 10:36:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/azvipcom/my.azvip102.com/config/config.php on line 149
+[07-Aug-2023 10:36:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/azvipcom/my.azvip102.com/config/config.php on line 152
+[07-Aug-2023 10:36:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/azvipcom/my.azvip102.com/config/config.php on line 156
+[07-Aug-2023 10:36:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/azvipcom/my.azvip102.com/public/client/Nav.php on line 160
+[07-Aug-2023 10:36:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/azvipcom/my.azvip102.com/public/client/Nav.php on line 178
+[07-Aug-2023 10:36:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/azvipcom/my.azvip102.com/public/client/Nav.php on line 182
+[07-Aug-2023 10:36:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/azvipcom/my.azvip102.com/public/client/Nav.php on line 186
+[07-Aug-2023 10:36:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/azvipcom/my.azvip102.com/public/client/Nav.php on line 201

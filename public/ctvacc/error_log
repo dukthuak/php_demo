@@ -1,0 +1,304 @@
+[16-Nov-2022 17:04:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:04:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:04:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:04:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:04:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:04:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:04:15 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:04:15 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:04:15 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:04:15 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:04:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:04:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:04:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:04:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:04:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:04:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:04:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:04:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:04:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:04:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:04:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:05:41 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/accbloxn/public_html/public/ctvacc/../../includes/login-ctvacc.php): failed to open stream: No such file or directory in /home/accbloxn/public_html/public/ctvacc/index.php on line 4
+[16-Nov-2022 17:05:41 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/accbloxn/public_html/public/ctvacc/../../includes/login-ctvacc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/accbloxn/public_html/public/ctvacc/index.php on line 4
+[16-Nov-2022 17:05:42 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/accbloxn/public_html/public/ctvacc/../../includes/login-ctvacc.php): failed to open stream: No such file or directory in /home/accbloxn/public_html/public/ctvacc/index.php on line 4
+[16-Nov-2022 17:05:42 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/accbloxn/public_html/public/ctvacc/../../includes/login-ctvacc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/accbloxn/public_html/public/ctvacc/index.php on line 4
+[16-Nov-2022 17:05:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:05:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:05:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:05:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:05:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:05:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:05:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:05:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:05:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:05:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:06:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:06:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:06:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:06:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:06:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:06:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:06:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:06:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:06:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:06:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:06:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:06:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:06:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:06:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:06:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:06:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:06:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:06:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:06:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:06:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:06:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:06:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:06:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:06:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:06:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:06:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:06:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:06:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:06:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:06:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:06:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:06:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:06:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:06:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:06:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:10:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:10:01 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:10:01 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:10:01 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:10:01 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:11:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:11:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:11:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:11:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:11:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:12:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:12:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:12:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:12:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:12:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:13:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:13:30 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:13:30 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:13:30 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:13:30 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:15:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:15:41 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:15:41 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:15:41 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:15:41 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:16:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:16:04 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:16:04 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:16:04 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:16:04 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:24:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:24:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:24:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:24:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:24:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:25:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:25:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:25:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:25:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:25:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:25:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:25:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:25:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:25:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:25:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:25:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:25:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:25:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:25:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:25:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:27:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:27:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:27:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:27:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:27:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:28:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:28:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:28:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:28:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:28:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[16-Nov-2022 17:28:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/accbloxn/public_html/includes/checkLicense.php on line 147
+[16-Nov-2022 17:28:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 151
+[16-Nov-2022 17:28:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 156
+[16-Nov-2022 17:28:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 161
+[16-Nov-2022 17:28:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/accbloxn/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 18:39:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 18:39:50 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 18:39:50 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 18:39:50 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 18:39:50 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 18:46:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 18:46:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 18:46:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 18:46:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 18:46:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 23:41:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 23:41:16 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 23:41:16 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 23:41:16 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 23:41:16 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 23:44:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 23:44:38 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 23:44:38 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 23:44:38 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 23:44:38 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 23:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 23:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 23:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 23:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 23:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 23:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 23:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 23:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 23:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 23:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 23:57:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 23:57:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 23:57:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 23:57:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 23:57:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 23:57:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 23:57:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 23:57:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 23:57:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 23:57:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 23:59:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 23:59:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 23:59:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 23:59:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 23:59:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 23:59:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 23:59:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 23:59:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 23:59:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 23:59:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[17-Nov-2022 23:59:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[17-Nov-2022 23:59:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[17-Nov-2022 23:59:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[17-Nov-2022 23:59:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[17-Nov-2022 23:59:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:00:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:00:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:00:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:00:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:00:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:00:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:00:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:00:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:00:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:00:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:00:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:00:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:00:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:00:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:00:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:01:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:01:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:01:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:01:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:01:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:01:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:01:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:01:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:01:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:01:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:02:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:02:26 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:02:26 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:02:26 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:02:26 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:04:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:04:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:04:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:04:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:04:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:04:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:04:22 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:04:22 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:04:22 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:04:22 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:09:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:09:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:09:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:09:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:09:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:09:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:09:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:09:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:09:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:09:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:09:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:09:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:09:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:09:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:09:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:09:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:09:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:09:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:09:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:09:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 00:09:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 00:09:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 00:09:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 00:09:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 00:09:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[18-Nov-2022 21:17:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[18-Nov-2022 21:17:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[18-Nov-2022 21:17:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[18-Nov-2022 21:17:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[18-Nov-2022 21:17:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[19-Nov-2022 18:37:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[19-Nov-2022 18:37:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[19-Nov-2022 18:37:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[19-Nov-2022 18:37:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[19-Nov-2022 18:37:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[19-Nov-2022 18:44:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[19-Nov-2022 18:44:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[19-Nov-2022 18:44:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[19-Nov-2022 18:44:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[19-Nov-2022 18:44:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[19-Nov-2022 18:45:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[19-Nov-2022 18:45:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[19-Nov-2022 18:45:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[19-Nov-2022 18:45:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[19-Nov-2022 18:45:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[19-Nov-2022 18:46:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[19-Nov-2022 18:46:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[19-Nov-2022 18:46:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[19-Nov-2022 18:46:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[19-Nov-2022 18:46:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[19-Nov-2022 18:47:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[19-Nov-2022 18:47:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[19-Nov-2022 18:47:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[19-Nov-2022 18:47:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[19-Nov-2022 18:47:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[21-Nov-2022 10:07:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[21-Nov-2022 10:07:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[21-Nov-2022 10:07:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[21-Nov-2022 10:07:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[21-Nov-2022 10:07:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[21-Nov-2022 10:07:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[21-Nov-2022 10:07:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[21-Nov-2022 10:07:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[21-Nov-2022 10:07:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[21-Nov-2022 10:07:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166
+[28-Nov-2022 00:20:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: results in /home/cshoprob/public_html/includes/checkLicense.php on line 147
+[28-Nov-2022 00:20:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 151
+[28-Nov-2022 00:20:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 156
+[28-Nov-2022 00:20:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 161
+[28-Nov-2022 00:20:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/cshoprob/public_html/includes/checkLicense.php on line 166

@@ -1,0 +1,63 @@
+[23-Mar-2022 19:58:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:10 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:10 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:11 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:13 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:13 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:14 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:14 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:16 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:16 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:17 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:19 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:19 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:20 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:22 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:22 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:23 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:24 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:26 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 19:58:26 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 21:31:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 21:31:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[23-Mar-2022 21:31:34 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[24-Mar-2022 05:41:43 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../../assets/storage/images): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category-caythue.php on line 26
+[02-Apr-2022 18:24:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[02-Apr-2022 18:24:09 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[02-Apr-2022 18:24:09 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[30-Apr-2022 20:51:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: row in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[30-Apr-2022 20:51:13 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[30-Apr-2022 20:51:13 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../..): Is a directory in /home/robuxsco/public_html/assets/ajaxs/admin/delete-category.php on line 26
+[18-May-2022 11:57:49 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../../assets/storage/images/category_P4Q8WNHI3RLJ.png): No such file or directory in /home/shophctc/public_html/assets/ajaxs/admin/delete-category-caythue.php on line 26
+[03-Nov-2022 14:21:41 Asia/Ho_Chi_Minh] PHP Warning:  unlink(../../../assets/storage/images/category_GCF9T50RQ63J.png): No such file or directory in /home/accbloxn/public_html/assets/ajaxs/admin/delete-category-caythue.php on line 26
+[07-Aug-2023 15:01:01 UTC] PHP Notice:  Undefined variable: row in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[07-Aug-2023 15:01:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[07-Aug-2023 15:01:01 UTC] PHP Warning:  unlink(../../..): Is a directory in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:34 UTC] PHP Notice:  Undefined variable: row in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:34 UTC] PHP Warning:  unlink(../../..): Is a directory in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:37 UTC] PHP Notice:  Undefined variable: row in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:37 UTC] PHP Warning:  unlink(../../..): Is a directory in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:39 UTC] PHP Notice:  Undefined variable: row in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:39 UTC] PHP Warning:  unlink(../../..): Is a directory in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:41 UTC] PHP Notice:  Undefined variable: row in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
+[08-Aug-2023 02:56:41 UTC] PHP Warning:  unlink(../../..): Is a directory in /home/azvipcom/my.azvip102.com/assets/ajaxs/admin/delete-category.php on line 26
